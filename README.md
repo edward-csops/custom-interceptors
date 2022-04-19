@@ -5,7 +5,10 @@
 </div>
 
 Custom solutions using Java Script language boarded into [Sensedia API Plataform][API-Platform]
-> More specifically [Rhyno v1.7][Rhino]
+> More specifically [Rhyno v1.7][Rhino]🦏
+
+### API Platform 🪧
+➡️ Link to [Repository][API-Repository] 
 
 <div align="center">
   <img src="/others/sensedia-logo.png" alt="Sensedia Logo" width="50%" height="50%">
@@ -20,3 +23,4 @@ Custom solutions using Java Script language boarded into [Sensedia API Plataform
 [API-Platform]:https://manager-treinamento.sensedia.com/api-manager/login.html#/login
 [Rhino]: https://github.com/mozilla/rhino
 [Edward-Github]:https://github.com/edward-mn
+[API-Repository]:https://manager-treinamento.sensedia.com/api-manager/#/apis/overview/1615/revisions/22610
