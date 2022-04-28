@@ -62,4 +62,4 @@
 
 
 <!--------------------------------- Files Links ------------------------->
-[folder-group&subgroup]:manipulation/group&subgroup/information.md
+[folder-group&subgroup]:manipulation/information.md
