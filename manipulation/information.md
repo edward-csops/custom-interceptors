@@ -19,7 +19,7 @@
 
 ---
 <div>
-  <img src="../others/js-icon.png" alt="Javascript Icon" align="right">
+  <img src="../others/js-icon.png" alt="Javascript Icon" align="right" width="50px" height="50px">
 
   ## Code
 
@@ -52,7 +52,7 @@
 
 ---
 
-## Files :files:
+## Files 📂
 ### :arrow_right_hook: [fieldsGroup.js][group&subgroup-js]
 ### :arrow_right_hook: [bodyGroup.json][bodyGroup-json]
 
