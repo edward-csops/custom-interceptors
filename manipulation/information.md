@@ -18,34 +18,37 @@
 </div>
 
 ---
+<div>
+  <img src="../others/js-icon.png" alt="Javascript Icon" align="right">
 
-## Code .js
+  ## Code
 
-```
-try {
-  var body = JSON.parse($call.response.getBody().getString('utf-8'));
+  ```
+  try {
+    var body = JSON.parse($call.response.getBody().getString('utf-8'));
 
-  newBody = groupResponse(body);
+    newBody = groupResponse(body);
 
-  $call.response.getBody().setString(JSON.stringify(newBody), 'UTF-8');
-}
+    $call.response.getBody().setString(JSON.stringify(newBody), 'UTF-8');
+  }
 
-function groupResponse(body) {
-  var newBody = body.map(function (el) {
-    var grupo_digital = el.grupo_digital;
-    var subgrupos = JSON.parse(el.subgrupos.value);
+  function groupResponse(body) {
+    var newBody = body.map(function (el) {
+      var grupo_digital = el.grupo_digital;
+      var subgrupos = JSON.parse(el.subgrupos.value);
 
-    var obj = {
-      grupo_digital: grupo_digital,
-      subgrupos: subgrupos,
-    };
+      var obj = {
+        grupo_digital: grupo_digital,
+        subgrupos: subgrupos,
+      };
 
-    return obj;
-  });
+      return obj;
+    });
 
-  return newBody;
-}
-```
+    return newBody;
+  }
+  ```
+</div>
 
 ---
 
