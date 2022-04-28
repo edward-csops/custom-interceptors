@@ -1,14 +1,40 @@
 <div align="center">
   <img src="/others/custom-tag.png" alt="Interceptor Logo" align="left">
   <img src="/others/custom-tag.png" alt="Interceptor Logo" align="right">
-  <h1> Custom Interceptors </h1>
+  <h1>
+    <strong> 
+      Custom Interceptors
+    </strong>
+  </h1>
 </div>
 
 Custom solutions using Java Script language boarded into [Sensedia API Platform][API-Platform]
 > More specifically [Rhyno v1.7][Rhino]🦏
 
-### API Platform 🪧
-➡️ Link to [Repository][API-Repository] 
+## API Platform 🪧
+➡️ Link to [Repository][API-Repository]
+
+---
+
+## Index
+  - [**Manipulation body**](#manipulation-body)
+
+---
+<center>
+
+  ### **Manipulation body**
+
+  <br>
+
+  | Files| Description | Language |
+  | :--- | :---------: | ---: |
+  | [Group & Sub group][folder-group&subgroup] | Order the response into group and subgroups | `Javascript`
+
+</center>
+
+<br>
+
+---
 
 <div align="center">
   <img src="/others/sensedia-logo.png" alt="Sensedia Logo" width="50%" height="50%">
@@ -24,3 +50,7 @@ Custom solutions using Java Script language boarded into [Sensedia API Platform]
 [Rhino]: https://github.com/mozilla/rhino
 [Edward-Github]:https://github.com/edward-mn
 [API-Repository]:https://manager-treinamento.sensedia.com/api-manager/#/apis/overview/1615/revisions/22610
+
+
+<!--------------------------------- Files Links ------------------------->
+[folder-group&subgroup]:manipulation/group&subgroup/information.md
