@@ -52,6 +52,15 @@
 
 ---
 
+<div>
+
+## Demo :eyes:
+* #### Endpoint : https://api-treinamento.sensedia.com/repository/v1/products
+  * ##### Protected by oAuth 2.0 :lock:
+  
+</div>
+
+---
 ## Files 📂
 ### :arrow_right_hook: [fieldsGroup.js][group&subgroup-js]
 ### :arrow_right_hook: [bodyGroup.json][bodyGroup-json]
