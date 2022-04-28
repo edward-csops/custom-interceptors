@@ -1,0 +1,26 @@
+[
+  {
+    "grupo_digital": "FERTILIZANTE",
+    "subgrupos": {
+      "type": "json",
+      "value": "[{\"id_subgrupo\" : 210, \"nome_subgrupo\" : \"FERTILIZANTES SÓLIDOS\"}, {\"id_subgrupo\" : 211, \"nome_subgrupo\" : \"CORRETIVOS DE SOLO\"}]",
+      "null": true
+    }
+  },
+  {
+    "grupo_digital": "PROTEÇÃO DE CULTIVO",
+    "subgrupos": {
+      "type": "json",
+      "value": "[{\"id_subgrupo\" : 200, \"nome_subgrupo\" : \"HERBICIDAS\"}, {\"id_subgrupo\" : 201, \"nome_subgrupo\" : \"INSETICIDAS\"}, {\"id_subgrupo\" : 202, \"nome_subgrupo\" : \"FUNGICIDAS\"}, {\"id_subgrupo\" : 203, \"nome_subgrupo\" : \"ADJUVANTES\"}, {\"id_subgrupo\" : 205, \"nome_subgrupo\" : \"TRATAMENTO DE SEMENTES\"}, {\"id_subgrupo\" : 206, \"nome_subgrupo\" : \"MICRONUTRIENTES\"}, {\"id_subgrupo\" : 207, \"nome_subgrupo\" : \"BIOLOGICOS\"}, {\"id_subgrupo\" : 208, \"nome_subgrupo\" : \"OLEOS\"}]",
+      "null": true
+    }
+  },
+  {
+    "grupo_digital": "SEMENTES",
+    "subgrupos": {
+      "type": "json",
+      "value": "[{\"id_subgrupo\" : 113, \"nome_subgrupo\" : \"SEMENTE DE SOJA\"}, {\"id_subgrupo\" : 114, \"nome_subgrupo\" : \"SEMENTE DE TRIGO\"}, {\"id_subgrupo\" : 116, \"nome_subgrupo\" : \"SEMENTE OUTROS\"}, {\"id_subgrupo\" : 220, \"nome_subgrupo\" : \"SEMENTE DE SOJA\"}, {\"id_subgrupo\" : 221, \"nome_subgrupo\" : \"SEMENTE DE MILHO\"}, {\"id_subgrupo\" : 223, \"nome_subgrupo\" : \"SEMENTE OUTRO\"}, {\"id_subgrupo\" : 224, \"nome_subgrupo\" : \"SEMENTE DE ARROZ\"}, {\"id_subgrupo\" : 226, \"nome_subgrupo\" : \"SEMENTE OUTRO\"}, {\"id_subgrupo\" : 227, \"nome_subgrupo\" : \"SEMENTE OUTRO\"}]",
+      "null": true
+    }
+  }
+]
