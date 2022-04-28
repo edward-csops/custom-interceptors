@@ -8,19 +8,28 @@
   </h1>
 </div>
 
-Custom solutions using Java Script language boarded into [Sensedia API Platform][API-Platform]
-> More specifically [Rhyno v1.7][Rhino]🦏
+<div>
+  
+  Custom solutions using Java Script language boarded into [Sensedia API Platform][API-Platform]
+  > More specifically [Rhyno v1.7][Rhino]🦏
 
-## API Platform 🪧
-➡️ Link to [Repository][API-Repository]
+  ## API Platform 🪧
+  ➡️ Link to [Repository][API-Repository]
+
+</div>
 
 ---
 
+<div>
+  
 ## Index
-  - [**Manipulation body**](#manipulation-body)
-
+  * [Manipulation body](#manipulation-body)
+  
+</div>
+  
 ---
-<center>
+  
+<div align="center">
 
   ### **Manipulation body**
 
@@ -30,7 +39,7 @@ Custom solutions using Java Script language boarded into [Sensedia API Platform]
   | :--- | :---------: | ---: |
   | [Group & Sub group][folder-group&subgroup] | Order the response into group and subgroups | `Javascript`
 
-</center>
+</div>
 
 <br>
 
