@@ -58,10 +58,35 @@
 
 <div>
 
-  ## Demo :eyes:
-  * #### Endpoint : https://api-treinamento.sensedia.com/repository/v1/products
-    * ##### Protected by oAuth 2.0 :lock:
+  <h2>Demo</h2>
   
+  * <h3>
+      <strong>Request</strong>
+    </h3>
+  
+  ```
+  GET https://api-treinamento.sensedia.com/repository/v1/products
+  ```
+
+  * <h4>
+      <strong>Payload</strong>
+    </h4>
+
+  ```
+    {}
+  ```
+
+  * <h4>
+      <strong>Headers</strong>
+    </h4>
+
+  | Name| | Description |
+  | :--- | - | --------- |
+  | Content-Type | | Should be `application/json` |
+  | Authorization | | Basic `client_id:client_secret (Base64)` |
+
+  >  Protected by oAuth 2.0 :lock:
+
 </div>
 
 ---
