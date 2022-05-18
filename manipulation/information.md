@@ -1,14 +1,12 @@
 <div align="center">
   <h1>
-    <strong> 
-      Manipulation body
-    </strong>
+    <strong> Manipulation body </strong>
   </h1>
 </div>
 
 <div>
-
-  ##  Group & Subgroup :bookmark_tabs:
+  
+  <h2> Group & Subgroup 📑 </h2> 
   
   <p>
     The solution is to group the <b>response body</b> inside groups and subgroups.
@@ -18,10 +16,11 @@
     Every main group that has the same name, must create subgroups and add them.
   </p>
 
-  > Keeping the only necessary information organized!
+  > Keeping the only necessary information organized❗ 
 </div>
 
 ---
+
 <div>
   <img src="../others/js-icon.png" alt="Javascript Icon" align="right" width="50px" height="50px">
 
@@ -58,10 +57,10 @@
 
 <div>
 
-  <h2>Demo</h2>
+  <h2> Demo 👀 </h2> 
   
   * <h3>
-      <strong>Request</strong>
+      <strong> Request </strong>
     </h3>
   
   ```
@@ -69,7 +68,7 @@
   ```
 
   * <h4>
-      <strong>Payload</strong>
+      <strong> Payload </strong>
     </h4>
 
   ```
@@ -77,13 +76,13 @@
   ```
 
   * <h4>
-      <strong>Headers</strong>
+      <strong> Headers </strong>
     </h4>
 
-  | Name| | Description |
-  | :--- | - | --------- |
-  | Content-Type | | Should be `application/json` |
-  | Authorization | | Basic `client_id:client_secret (Base64)` |
+  | Name| Description |
+  | :--- | --------- |
+  | Content-Type | Should be `application/json` |
+  | Authorization | Basic `client_id:client_secret (Base64)` |
 
   >  Protected by oAuth 2.0 :lock:
 
