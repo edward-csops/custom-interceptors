@@ -11,10 +11,14 @@
   ##  Group & Subgroup :bookmark_tabs:
   
   <p>
-    The main idea to create this solutions is order the response into group and it respects subgroups.
+    The solution is to group the <b>response body</b> inside groups and subgroups.
   </p>
 
-  > Letting only the necessary information!
+  <p>
+    Every main group that has the same name, must create subgroups and add them.
+  </p>
+
+  > Keeping the only necessary information organized!
 </div>
 
 ---
@@ -54,9 +58,9 @@
 
 <div>
 
-## Demo :eyes:
-* #### Endpoint : https://api-treinamento.sensedia.com/repository/v1/products
-  * ##### Protected by oAuth 2.0 :lock:
+  ## Demo :eyes:
+  * #### Endpoint : https://api-treinamento.sensedia.com/repository/v1/products
+    * ##### Protected by oAuth 2.0 :lock:
   
 </div>
 
