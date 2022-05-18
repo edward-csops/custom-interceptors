@@ -79,10 +79,10 @@
       <strong> Headers </strong>
     </h4>
 
-  | Name| Description |
+  | Key| Value |
   | :--- | --------- |
-  | Content-Type | Should be `application/json` |
-  | Authorization | Basic `client_id:client_secret (Base64)` |
+  | client_id | `token` |
+  | access_token | `token` |
 
   >  Protected by oAuth 2.0 :lock:
 
